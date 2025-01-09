@@ -21,7 +21,7 @@ app.use(cookieParse());
 
 
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://yt-mern-job-portal.onrender.com",
   credentials: true,
 };
 
