@@ -12,7 +12,7 @@ import AdminLayout from "./components/admin/layout/AdminLayout";
 import Companies from "./components/admin/Companies";
 import CreateCompany from "./components/admin/CreateCompany";
 import CompanySetUp from "./components/admin/CompanySetUp";
-import AdminJobs from "./components/admin/AdminJObs";
+import AdminJobs from "./components/admin/AdminJobs";
 import PostJob from "./components/admin/PostJob";
 import Applicants from "./components/admin/Applicants";
 import ProtectedRoute from "./layout/ProtectedRoute";
