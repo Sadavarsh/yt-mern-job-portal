@@ -9,7 +9,7 @@ const AdminLayout = () => {
       <Navbar />
       <Outlet   />
       <Footer />
-      <div className='h-[250px]'></div>
+   
     </>
   )
 }
